@@ -1,0 +1,25 @@
+{
+  "name": "local-business-pos-toast-opentable-lead-extractor",
+  "version": "2.0.0",
+  "description": "Identify local businesses using Toast POS, Square, OpenTable, Resy, Zocdoc, NexHealth, and Mindbody with automated email, phone, and Schema.org LocalBusiness extraction.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "local-business-pos-toast-opentable-lead-extractor": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "local-business",
+    "restaurant-pos",
+    "toast-pos",
+    "lead-extractor",
+    "google-maps-leads",
+    "smb-leads",
+    "agency-prospecting",
+    "schema-org",
+    "b2b-data"
+  ],
+  "license": "MIT"
+}
